@@ -1,6 +1,6 @@
 # Forge Javadocs
 
-https://taylorgoolsby.github.io/forge-javadocs/
+https://taylorgoolsby.github.io/forge-javadocs/index.html
 
 ## How to generate Forge javadocs
 
