@@ -1,3 +1,7 @@
+# Forge Javadocs
+
+https://taylorgoolsby.github.io/forge-javadocs/
+
 ## How to generate Forge javadocs
 
 1. Clone the Forge GitHub from here: https://github.com/MinecraftForge/MinecraftForge
